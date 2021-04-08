@@ -12,4 +12,4 @@ let mod = num3 % num4
 let max = Math.max(10, 15, 20)
 
 
-     s
+     
